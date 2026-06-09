@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ERP and POS Systems<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning ASP.NET Web Development<br>💬 Ask me about C#
+🔭 I’m currently working on ERP and POS Systems<br>🌱 I’m currently learning ASP.NET Web Development<br>💬 Ask me about C#
 
 
 ## 🌐 Socials:
