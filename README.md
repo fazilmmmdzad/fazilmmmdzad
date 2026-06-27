@@ -9,7 +9,7 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 ## Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="c#" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
