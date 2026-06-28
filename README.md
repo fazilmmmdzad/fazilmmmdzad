@@ -4,7 +4,7 @@
 I've been programming for 3 years, starting my journey with C#. Since then, I've expanded my skills by learning ASP.NET, Microsoft SQL Server (MSSQL), JavaScript, HTML, CSS, and other related technologies. My primary focus is backend development, and I enjoy building server-side applications and improving my backend development skills.
 
 ## Contact Me
-<p><a href="fazil_memmedzade" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
 
