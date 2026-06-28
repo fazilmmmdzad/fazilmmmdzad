@@ -42,6 +42,16 @@ The three buttons above degree indicate which temperature scale your selected de
 
 ---
 
+### Honey Photo
+
+<img src="https://i.ibb.co/NRnD89f/Annotation-2026-06-28-1619383.png" alt="Honey Photo" width="300"/>
+
+HoneyPhoto is a simple, fast, and user-friendly image editing application designed to make everyday image processing easier. After launching the application, click the **Open** button and select an image from your computer. Once the image is loaded, its preview will appear in the center of the application, while detailed information such as the file name, image dimensions, file size, and image format will be displayed below the preview area.
+
+In addition to editing features, HoneyPhoto provides several export options. You can send your image directly to Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, or export it as a PDF document. The application also allows you to copy the image to the Windows Clipboard for quick pasting into other applications, open the image in Microsoft Paint, display it in your default Photos application, or locate the original file instantly through File Explorer.
+
+[View Project]()
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=fazilmmmdzad&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
