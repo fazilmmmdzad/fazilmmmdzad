@@ -30,6 +30,20 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 <img src="https://static.cdnlogo.com/logos/j/20/jwt_thumb.png" alt="jwt" width="40" height="40"/>&nbsp;
 </p>
 
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=fazilmmmdzad&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazilmmmdzad&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazilmmmdzad&theme=tokyonight" alt="GitHub Streak" />
+
+
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fazilmmmdzad&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
 ## Projects
 
 ### Honey Degrees
@@ -51,15 +65,3 @@ HoneyPhoto is a simple, fast, and user-friendly image editing application design
 In addition to editing features, HoneyPhoto provides several export options. You can send your image directly to Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, or export it as a PDF document. The application also allows you to copy the image to the Windows Clipboard for quick pasting into other applications, open the image in Microsoft Paint, display it in your default Photos application, or locate the original file instantly through File Explorer.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=fazilmmmdzad&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazilmmmdzad&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazilmmmdzad&theme=tokyonight" alt="GitHub Streak" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fazilmmmdzad&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
