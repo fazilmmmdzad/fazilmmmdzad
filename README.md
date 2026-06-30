@@ -56,6 +56,14 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 <img src="https://www.pngmart.com/files/23/Capcut-Logo-PNG-Photos.png" alt="capcut" width="40" height="40"/>&nbsp;
 <p/>
 
+## IDEs
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40"/>&nbsp;
+<img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="ssms" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="sqlite" width="40" height="40"/>&nbsp;
+<p/>
+
 ## Git
 <p align="left">
 <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
