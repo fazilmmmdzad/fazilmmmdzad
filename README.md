@@ -68,8 +68,6 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazilmmmdzad&theme=tokyonight" alt="GitHub Streak" />
 
-
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazilmmmdzad&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
@@ -78,7 +76,7 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 
 ### Honey Degrees
 
-<img src="https://i.ibb.co/n8fD2LWR/Annotation-2026-06-26-225953.png" alt="Honey Degrees" width="300"/>
+<img src="https://github.com/fazilmmmdzad/Temperature_Transducer/blob/main/Annotation%202026-06-30%2008371333.png" alt="Honey Degrees" width="300"/>
 
 The three buttons above degree indicate which temperature scale your selected degree belongs to. Once you write the degree you want to write, you will know how many degrees it is on other temperature scales.
 
