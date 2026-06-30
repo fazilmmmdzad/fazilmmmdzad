@@ -86,7 +86,7 @@ The three buttons above degree indicate which temperature scale your selected de
 
 ### Honey Photo
 
-<img src="https://i.ibb.co/NRnD89f/Annotation-2026-06-28-1619383.png" alt="Honey Photo" width="300"/>
+<img src="https://github.com/fazilmmmdzad/HoneyPhoto/blob/master/Annotation%202026-06-30%2008394533.png" alt="Honey Photo" width="300"/>
 
 HoneyPhoto is a simple, fast, and user-friendly image editing application designed to make everyday image processing easier. After launching the application, click the **Open** button and select an image from your computer. Once the image is loaded, its preview will appear in the center of the application, while detailed information such as the file name, image dimensions, file size, and image format will be displayed below the preview area.
 
