@@ -9,31 +9,58 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 ## Backend
 
 <p align="left">
-<img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://antep92.hu/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT7he7AwEYHP7uBV0gMGC9xvZedlJpwnYrjlRjhZGuEqldCp7e" width="40" height="40"/>&nbsp;
+<img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/3840px-Microsoft_.NET_logo.svg.png" alt="dot net" width="40" height="40"/>&nbsp;
 </p>
 
 ## Frontend
-
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://growteq.nl/wp-content/uploads/2018/02/microsoft-sql-server.png" alt="mssql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://logodix.com/logo/1796970.png" alt="asp.net" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/>&nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/swagger-api-icon.png" alt="swagger" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/CMD-Icon_%28small%29.png" alt="cmd" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pyaEPKwLClysx5z-OzWBADXzLHOi7SR59BFm6d7E3A&s=10" alt="entity framework core" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40"/>&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-logo-icon-svg-download-png-2945093.png" alt="powershell" width="40" height="40"/>&nbsp;
-<img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo543.png" alt="sqlite" width="40" height="40"/>&nbsp;
-<img src="https://static.cdnlogo.com/logos/j/20/jwt_thumb.png" alt="jwt" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
+<img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBGm8rz_v_6xdYvfpyOdEABmXRcc-J_d-KQ&s" alt="jquery" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
 </p>
+
+## Data Formats
+<p align="left">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-json-logo-icon-svg-download-png-2284964.png?f=webp&w=128" alt="json" width="40" height="40"/>&nbsp;
+<img src="https://static.vecteezy.com/system/resources/previews/000/367/045/non_2x/xml-vector-icon.jpg" alt="xml" width="40" height="40"/>&nbsp;
+<img src="https://static.vecteezy.com/system/resources/previews/000/376/777/non_2x/csv-vector-icon.jpg" alt="csv" width="40" height="40"/>&nbsp;
+  
+</p>
+
+## Database
+<p align="left">
+<img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" alt="mssql" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRo0Y8B-K-skRKINQNGB_LQz029Cf9VEcsw&s" alt="sqlite" width="40" height="40"/>&nbsp;
+</p>
+
+## Windows
+<p align="left">
+<img src="https://play-lh.googleusercontent.com/aH9uB7Jc8-kg72h62nRpqQfyHkJA1w5E9wNXBbAHtHYjbPEtau4_zdRqbM7RTPHr57eoFtG92wc20VOhPERf" alt="cmd" width="40" height="40"/>&nbsp;
+<img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="powershell" width="40" height="40"/>&nbsp;
+<p/>
+
+## Design (Photo & Video)
+<p align="left">
+<img src="https://img.utdstc.com/icon/edb/46c/edb46ccb01994730e293e24f7c8dd7f5aa0b8a045e577b737b3300637045501d:600" alt="inshot" width="40" height="40"/>&nbsp;
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwaH94jRmtJPRlv4F_Z0WGxl4DqVmtd6.Y76H4VGL9nDXhYbs1dM3Ct_E.XEwVjczMY-&format=source" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/wXk_X0uT6AeWv5TFfheHP8NrOmtz17BX-2uEZ7H4naTIzuFpSIfohvQTA4pKOCF71TmeUF3DfMAGq1SlK2hH7Qk" alt="picsart" width="40" height="40"/>&nbsp;
+<img src="https://www.pngmart.com/files/23/Capcut-Logo-PNG-Photos.png" alt="capcut" width="40" height="40"/>&nbsp;
+<p/>
+
+## Git
+<p align="left">
+<img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
+<p/>
 
 ## GitHub Stats
 
