@@ -10,9 +10,15 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 
 <p align="left">
 <img src="https://antep92.hu/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" alt="c#" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT7he7AwEYHP7uBV0gMGC9xvZedlJpwnYrjlRjhZGuEqldCp7e" width="40" height="40"/>&nbsp;
 <img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/3840px-Microsoft_.NET_logo.svg.png" alt="dot net" width="40" height="40"/>&nbsp;
+<img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
+</p>
+
+## Database
+<p align="left">
+<img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
+<img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
 </p>
 
 ## Frontend
@@ -21,10 +27,10 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBGm8rz_v_6xdYvfpyOdEABmXRcc-J_d-KQ&s" alt="jquery" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
 <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBGm8rz_v_6xdYvfpyOdEABmXRcc-J_d-KQ&s" alt="jquery" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
 </p>
 
@@ -34,12 +40,6 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 <img src="https://static.vecteezy.com/system/resources/previews/000/367/045/non_2x/xml-vector-icon.jpg" alt="xml" width="40" height="40"/>&nbsp;
 <img src="https://static.vecteezy.com/system/resources/previews/000/376/777/non_2x/csv-vector-icon.jpg" alt="csv" width="40" height="40"/>&nbsp;
   
-</p>
-
-## Database
-<p align="left">
-<img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" alt="mssql" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRo0Y8B-K-skRKINQNGB_LQz029Cf9VEcsw&s" alt="sqlite" width="40" height="40"/>&nbsp;
 </p>
 
 ## Windows
