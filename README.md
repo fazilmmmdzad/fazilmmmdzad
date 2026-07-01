@@ -82,7 +82,7 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 
 ## Projects
 
-### Honey Degrees
+## Honey Degrees
 
 <img src="https://github.com/fazilmmmdzad/Temperature_Transducer/blob/main/Annotation%202026-06-30%2008371333.png" alt="Honey Degrees" width="300"/>
 
@@ -92,7 +92,7 @@ The three buttons above degree indicate which temperature scale your selected de
 
 ---
 
-### Honey Photo
+## Honey Photo
 
 <img src="https://github.com/fazilmmmdzad/HoneyPhoto/blob/master/Annotation%202026-06-30%2008394533.png" alt="Honey Photo" width="300"/>
 
@@ -101,3 +101,10 @@ HoneyPhoto is a simple, fast, and user-friendly image editing application design
 In addition to editing features, HoneyPhoto provides several export options. You can send your image directly to Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, or export it as a PDF document. The application also allows you to copy the image to the Windows Clipboard for quick pasting into other applications, open the image in Microsoft Paint, display it in your default Photos application, or locate the original file instantly through File Explorer.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
+
+## Certificates
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/photo_5287621160113740582_y.jpg" alt="Honey Photo"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/photo_5190551798257751090_y.jpg" alt="Honey Photo"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/UC-136b7c62-dce4-49ce-9d53-360263383389.jpg" alt="Honey Photo"/>
+
+
