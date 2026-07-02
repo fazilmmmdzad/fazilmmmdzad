@@ -9,19 +9,14 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
   <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-
-## Backend
+## Programming Languages
 
 <p align="left">
   <img src="https://antep92.hu/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" alt="c#" width="40" height="40"/>&nbsp;
-  <img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
-  <img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
-  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
-## Database
+## Database Languages
 
 <p align="left">
   <img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
@@ -33,23 +28,39 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBGm8rz_v_6xdYvfpyOdEABmXRcc-J_d-KQ&s" alt="jquery" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
 </p>
 
-## Tools
+## Technologies
+
+<p align="left">
+  <img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
+  <img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
+  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
+</p>
+
+## IDEs
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40"/>&nbsp;
   <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="ssms" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="sqlite" width="40" height="40"/>&nbsp;
+</p>
+
+## Tools
+
+<p align="left">
   <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
 </p>
+
+
 
 ## GitHub Stats
 
