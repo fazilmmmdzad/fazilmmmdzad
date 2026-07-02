@@ -5,6 +5,7 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
 
 ## Contact Me
 <p><a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="" alt="Email"></a> </p>
 
 ## Backend
 
