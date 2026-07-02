@@ -4,72 +4,52 @@
 I've been programming for 3 years, starting my journey with C#. Since then, I've expanded my skills by learning ASP.NET, Microsoft SQL Server (MSSQL), JavaScript, HTML, CSS, and other related technologies. My primary focus is backend development, and I enjoy building server-side applications and improving my backend development skills.
 
 ## Contact Me
-<p><a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-<p><a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="" alt="Email"></a> </p>
+<p align="left">
+  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a> 
+  <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 
 ## Backend
 
 <p align="left">
-<img src="https://antep92.hu/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" alt="c#" width="40" height="40"/>&nbsp;
-<img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
-<img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
+  <img src="https://antep92.hu/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
+  <img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
+  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
 </p>
 
 ## Database
+
 <p align="left">
-<img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
-<img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
 </p>
 
 ## Frontend
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBGm8rz_v_6xdYvfpyOdEABmXRcc-J_d-KQ&s" alt="jquery" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
-<img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
 </p>
 
-## Data Formats
+## Tools
+
 <p align="left">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-json-logo-icon-svg-download-png-2284964.png?f=webp&w=128" alt="json" width="40" height="40"/>&nbsp;
-<img src="https://static.vecteezy.com/system/resources/previews/000/367/045/non_2x/xml-vector-icon.jpg" alt="xml" width="40" height="40"/>&nbsp;
-<img src="https://static.vecteezy.com/system/resources/previews/000/376/777/non_2x/csv-vector-icon.jpg" alt="csv" width="40" height="40"/>&nbsp;
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40"/>&nbsp;
+  <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="ssms" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
 </p>
-
-## Windows
-<p align="left">
-<img src="https://play-lh.googleusercontent.com/aH9uB7Jc8-kg72h62nRpqQfyHkJA1w5E9wNXBbAHtHYjbPEtau4_zdRqbM7RTPHr57eoFtG92wc20VOhPERf" alt="cmd" width="40" height="40"/>&nbsp;
-<img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="powershell" width="40" height="40"/>&nbsp;
-<p/>
-
-## Design (Photo & Video)
-<p align="left">
-<img src="https://img.utdstc.com/icon/edb/46c/edb46ccb01994730e293e24f7c8dd7f5aa0b8a045e577b737b3300637045501d:600" alt="inshot" width="40" height="40"/>&nbsp;
-<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwaH94jRmtJPRlv4F_Z0WGxl4DqVmtd6.Y76H4VGL9nDXhYbs1dM3Ct_E.XEwVjczMY-&format=source" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/wXk_X0uT6AeWv5TFfheHP8NrOmtz17BX-2uEZ7H4naTIzuFpSIfohvQTA4pKOCF71TmeUF3DfMAGq1SlK2hH7Qk" alt="picsart" width="40" height="40"/>&nbsp;
-<img src="https://www.pngmart.com/files/23/Capcut-Logo-PNG-Photos.png" alt="capcut" width="40" height="40"/>&nbsp;
-<p/>
-
-## IDEs
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40"/>&nbsp;
-<img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="ssms" width="40" height="40"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="sqlite" width="40" height="40"/>&nbsp;
-<p/>
-
-## Git
-<p align="left">
-<img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
-<p/>
 
 ## GitHub Stats
 
