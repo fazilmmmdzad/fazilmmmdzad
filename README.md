@@ -34,7 +34,7 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
   <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
 </p>
 
-## Technologies
+## Backend
 
 <p align="left">
   <img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
