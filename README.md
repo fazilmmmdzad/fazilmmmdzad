@@ -3,7 +3,7 @@
 
 I've been programming for 3 years, starting my journey with C#. Since then, I've expanded my skills by learning ASP.NET, Microsoft SQL Server (MSSQL), JavaScript, HTML, CSS, and other related technologies. My primary focus is backend development, and I enjoy building server-side applications and improving my backend development skills. 
 
-<a href="https://fazilmmmdzad.github.io/Portfolio/" target="_blank">🌐 Live Demo</a>
+<a href="https://fazilmmmdzad.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
 ## Contact Me
 <p align="left">
