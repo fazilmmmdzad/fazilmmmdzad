@@ -61,7 +61,14 @@ I've been programming for 3 years, starting my journey with C#. Since then, I've
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
 </p>
 
+## AIs
 
+<p align="left">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatgpt" width="40" height="40"/>&nbsp;
+<img src="https://avatars.mds.yandex.net/i?id=e1ce82b373f72fd190e662c88e531ac5a6da0e9e-5480670-images-thumbs&n=13" alt="gemini" width="40" height="40"/>&nbsp;
+<img src="https://play-lh.googleusercontent.com/YeFCFSW5LkBVdsEAL_fjzxDxTbhKz31j1uZUfDbSaCeM0t4Bi3SqyHTWzWsUsZnbwjofXhYajitG_gr2_B2xil8=s256-rw" alt="claude" width="40" height="40"/>&nbsp;
+  
+</p>
 
 ## GitHub Stats
 
