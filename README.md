@@ -40,7 +40,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
 </p>
 
-### Currently Learning
+#### Currently Learning
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
 
