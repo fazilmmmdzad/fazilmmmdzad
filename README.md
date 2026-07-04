@@ -35,9 +35,15 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
   <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
 </p>
+
+### Tools
 <p align="left">
   <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="vs" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00Mjg2OTY2LXpmUkswbw?revision=4" alt="ssms" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="dbbrowser" width="40" height="40"/>&nbsp;
 </p>
 
 #### Currently Learning
