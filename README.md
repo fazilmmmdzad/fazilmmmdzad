@@ -36,6 +36,11 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
 </p>
 
+
+#### Currently Learning
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
+
 ### Tools
 <p align="left">
   <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
@@ -46,9 +51,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="dbbrowser" width="40" height="40"/>&nbsp;
 </p>
 
-#### Currently Learning
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
 
 ## GitHub Stats
 
