@@ -19,11 +19,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
-##### Database
-<p align="left">
-  <img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
-  <img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
-</p>
+
 
 ##### Frontend
 <p align="left">
