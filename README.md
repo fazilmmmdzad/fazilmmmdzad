@@ -67,7 +67,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
   <a href="#">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fazilmmmdzad&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com?user=fazilmmmdzad&theme=tokyonight">
+    
   </a>
 
 ## GitHub Activity Graph
