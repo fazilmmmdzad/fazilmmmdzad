@@ -25,8 +25,11 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/nightwolf.dev/wp-content/uploads/jquery.png?fit=400,400&ssl=1" alt="jquery" width="40" height="40"/>&nbsp;
   <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/pLSXfOWTJFgfn4qotO3MKEn1BXbc7s2RB4ZUxbOfs3Bhmhar_LiU6ivir3x2tX2qF3hMWFEnlwgP9GdHCXAoeoE=w240-h480-rw" alt="babel" width="40" height="40"/>&nbsp;
 </p>
 
 
@@ -42,8 +45,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 ##### Currently Learning
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzgoa3wLyumGlMPirp_RexeKolKPM_SfO6EOg8q2PB2bQwG1nNKX68AE&s=10" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
 
   ##### Database
 <p align="left">
