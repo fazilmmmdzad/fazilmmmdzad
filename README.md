@@ -63,16 +63,11 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 </p>
 
 
-## GitHub Stats
-
+## Github Stats
   <a href="#">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fazilmmmdzad&theme=tokyonight">
     
   </a>
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fazilmmmdzad&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 
 ## Projects
 
