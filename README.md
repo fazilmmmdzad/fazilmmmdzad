@@ -46,22 +46,8 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 <p align="left">
   <img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
   <img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
-</p>
-
-##### Currently Learning
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzgoa3wLyumGlMPirp_RexeKolKPM_SfO6EOg8q2PB2bQwG1nNKX68AE&s=10" alt="mongodb" width="40" height="40"/>&nbsp;
-
-## Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/1200/git.jpg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png" alt="vs" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00Mjg2OTY2LXpmUkswbw?revision=4" alt="ssms" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="dbbrowser" width="40" height="40"/>&nbsp;
-  <img src="https://images.seeklogo.com/logo-png/48/2/mongodb-logo-png_seeklogo-481256.png" alt="mongo" width="40" height="40"/>&nbsp;
 </p>
-
 
 ## Github Stats
   <a href="#">
