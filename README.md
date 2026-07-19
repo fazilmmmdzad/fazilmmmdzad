@@ -11,48 +11,37 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## Skills
-
+## Frontend
 ##### Languages
-<p align="left">
-  <img src="https://logodix.com/logo/773715.png" alt="c#" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
-</p>
-
-
-##### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
+##### Frameworks
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
+##### Libraries
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/nightwolf.dev/wp-content/uploads/jquery.png?fit=400,400&ssl=1" alt="jquery" width="40" height="40"/>&nbsp;
-  <img src="https://ih1.redbubble.net/image.370343333.1917/raf,360x360,075,t,fafafa:ca443f4786.u3.jpg" alt="babel" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZHflY6bEVPF8lxuEj84w-4LApWtksWrS8yy0Plu1jIkMchFmmlFbwWk&s=10" alt="vite" width="40" height="40"/>&nbsp;
-</p>
 
 
-##### Backend
-<p align="left">
-  <img src="https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.6.3/icon" alt="dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gYIcDyN2Xpuphu2sefbgLek0P2dmiFTCmrr2JfRu632kt0NfPiiuGv8&s=10" alt="aspdotnet" width="40" height="40"/>&nbsp;
-  <img src="https://plugins.jetbrains.com/files/18147/403475/icon/default.svg" alt="entity framework core" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
-  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
-</p>
 
-  ##### Database
-<p align="left">
-  <img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
+## Backend
+##### Languages
+  <img src="https://logodix.com/logo/773715.png" alt="c#" width="40" height="40"/>&nbsp;
+
+##### Database
+<img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
   <img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzgoa3wLyumGlMPirp_RexeKolKPM_SfO6EOg8q2PB2bQwG1nNKX68AE&s=10" alt="mongodb" width="40" height="40"/>&nbsp;
-</p>
+
+##### Others
+  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
+  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
+<img src="https://media.licdn.com/dms/image/v2/D5612AQE0nEZrPGv0JA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679583758253?e=2147483647&v=beta&t=4QpsM1YKchLOfxVzpfFJAQWdkJ3vg3aKUWYL5tFVXXI" alt="restapi" width="40" height="40"/>&nbsp;
 
 ## Github Stats
   <a href="#">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fazilmmmdzad&theme=tokyonight">
-    
   </a>
 
 ## Projects
