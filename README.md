@@ -7,37 +7,38 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 ## Contact Me
 <p align="left">
-  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a> 
-  <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
+  <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
+  <a href="https://github.com/fazilmmmdzad" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
+  
 </p>
 
 ## Frontend
-##### Languages
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;
-##### Frameworks
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
-##### Libraries
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://i0.wp.com/nightwolf.dev/wp-content/uploads/jquery.png?fit=400,400&ssl=1" alt="jquery" width="40" height="40"/>&nbsp;
-
-
+<p align="left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" alt="HTML">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" alt="CSS">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" alt="Bootstrap">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite">
 
 ## Backend
-##### Languages
-  <img src="https://logodix.com/logo/773715.png" alt="c#" width="40" height="40"/>&nbsp;
+<p align="left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
+</p>
 
-##### Database
-<img src="https://hotmart.s3.amazonaws.com/product_pictures/677e0ca3-75d7-495c-90a1-4d82391589c5/FormaoemSQLServer.png" alt="mssql" width="40" height="40"/>&nbsp;
-  <img src="https://ih1.redbubble.net/image.4686011045.9566/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="sqlite" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzgoa3wLyumGlMPirp_RexeKolKPM_SfO6EOg8q2PB2bQwG1nNKX68AE&s=10" alt="mongodb" width="40" height="40"/>&nbsp;
-
-##### Others
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="jwt" width="40" height="40"/>&nbsp;
-  <img src="https://assets.apilayer.com/api_listings/swagger_generator.png" alt="swagger" width="40" height="40"/>&nbsp;
-<img src="https://media.licdn.com/dms/image/v2/D5612AQE0nEZrPGv0JA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679583758253?e=2147483647&v=beta&t=4QpsM1YKchLOfxVzpfFJAQWdkJ3vg3aKUWYL5tFVXXI" alt="restapi" width="40" height="40"/>&nbsp;
+## Database
+<p align="left">
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
+</p>
 
 ## Github Stats
   <a href="#">
