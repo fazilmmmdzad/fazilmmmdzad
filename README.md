@@ -40,11 +40,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
 </p>
 
-## Github Stats
-  <a href="#">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fazilmmmdzad&theme=tokyonight">
-  </a>
-
 ## Projects
 
 ### Honey Degrees
