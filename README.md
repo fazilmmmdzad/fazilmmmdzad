@@ -46,7 +46,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 <img src="https://github.com/fazilmmmdzad/Temperature_Transducer/blob/main/Annotation%202026-06-30%2008371333.png" alt="Honey Degrees" width="300"/>
 
-The three buttons above degree indicate which temperature scale your selected degree belongs to. Once you write the degree you want to write, you will know how many degrees it is on other temperature scales.
+A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 [View Project](https://github.com/fazilmmmdzad/Temperature_Transducer)
 
@@ -56,9 +56,22 @@ The three buttons above degree indicate which temperature scale your selected de
 
 <img src="https://github.com/fazilmmmdzad/HoneyPhoto/blob/master/Annotation%202026-06-30%2008394533.png" alt="Honey Photo" width="300"/>
 
-HoneyPhoto is a simple, fast, and user-friendly image editing application designed to make everyday image processing easier. After launching the application, click the **Open** button and select an image from your computer. Once the image is loaded, its preview will appear in the center of the application, while detailed information such as the file name, image dimensions, file size, and image format will be displayed below the preview area.
+Desktop image editing application developed with C# Windows Forms.
 
-In addition to editing features, HoneyPhoto provides several export options. You can send your image directly to Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, or export it as a PDF document. The application also allows you to copy the image to the Windows Clipboard for quick pasting into other applications, open the image in Microsoft Paint, display it in your default Photos application, or locate the original file instantly through File Explorer.
+[View Project](https://github.com/fazilmmmdzad/FlightBooking)
+
+---
+
+### Flight Booking
+<p align="left">
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221826.png" width="300"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221908.png" width="300"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221942.png" width="300"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20222031.png" width="300"/>
+<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20222130.png" width="300"/>
+</p>
+
+A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
 
