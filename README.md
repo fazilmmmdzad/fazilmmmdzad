@@ -75,7 +75,7 @@ Desktop image editing application developed with C# Windows Forms.
 
 A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
-[View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
+[View Project](https://github.com/fazilmmmdzad/FlightBooking)
 
 ## Certificates
 <p align="left">
