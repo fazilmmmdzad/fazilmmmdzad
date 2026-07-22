@@ -77,7 +77,7 @@ A full-stack airline reservation system with online booking, check-in, admin pan
 
 ## Certificates
 <p align="left">
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/photo_5287621160113740582_y.jpg" alt="Honey Photo" width="270px"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/photo_5190551798257751090_y.jpg" alt="Honey Photo" width="270px"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/UC-136b7c62-dce4-49ce-9d53-360263383389.jpg" alt="Honey Photo" width="270px"/>
+<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/AspDotNetCertificate.png" width="270px"/>
+<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/CsCertificate.png" alt="Honey Photo" width="270px"/>
+<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/HtmlCssJsCertificate.png" alt="Honey Photo" width="270px"/>
 </p>
