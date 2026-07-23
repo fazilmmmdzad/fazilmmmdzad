@@ -3,15 +3,17 @@
 
 I've been programming for **3** years, starting my journey with **C#**. Since then, I've expanded my skills by learning **ASP.NET**, Microsoft SQL Server (**MSSQL**), **JavaScript**, **HTML**, **CSS**, and other related technologies. My primary focus is **backend development**, and I enjoy building server-side applications and improving my **full-stack development skills**. 
 
-<a href="https://fazilmmmdzad.github.io/portfolio/" target="_blank">My Portfolio</a>
-
+<p align="left">
+<a href="https://fazilmmmdzad.github.io/portfolio/" target="_blank">My Portfolio</a> |
 <a href="https://fazilmmmdzad.github.io/CV/" target="_blank">CV</a>
+</p>
 
 ## Contact Me
 <p align="left">
   <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
   <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
   <a href="https://github.com/fazilmmmdzad" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
+  <a href="https://fazilmmmdzad.github.io/CV/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
   
 </p>
 
