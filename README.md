@@ -58,7 +58,7 @@ A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and
 
 Desktop image editing application developed with C# Windows Forms.
 
-[View Project](https://github.com/fazilmmmdzad/FlightBooking)
+[View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
 
 ---
 
