@@ -5,6 +5,8 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 <a href="https://fazilmmmdzad.github.io/portfolio/" target="_blank">My Portfolio</a>
 
+<a href="https://fazilmmmdzad.github.io/CV/" target="_blank">CV</a>
+
 ## Contact Me
 <p align="left">
   <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
