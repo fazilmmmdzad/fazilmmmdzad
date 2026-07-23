@@ -13,7 +13,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
   <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
   <a href="https://github.com/fazilmmmdzad" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
-  <a href="https://fazilmmmdzad.github.io/CV/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
   
 </p>
 
